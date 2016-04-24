@@ -1,6 +1,6 @@
 GITHUB_PAGES_BRANCH=gh-pages
 SITENAME=generations
-THEME = srg
+THEME = gscv
 
 html:
 	hugo --theme=$(THEME)
