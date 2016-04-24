@@ -1,3 +1,3 @@
-# CVilleMathCircle
+# Generations Montessori School
 
-Website for cvillemathcircle.org
+Website for generationsmontessoricville.org
