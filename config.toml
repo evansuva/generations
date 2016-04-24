@@ -1,0 +1,15 @@
+baseurl = "http://generationsmontessoricville.org"
+languageCode = "en-us"
+title = "Generations Montessori School Charlottesville"
+subtitle = ""
+
+[params]
+    sidebartitle = "Generations Montessori"
+    sidebartagline = "Charlottesville, VA"
+    nodate = true
+    noauthor = true
+    noread = true
+    nopaging=true
+    notoc=true
+
+[[menu.footer]]
