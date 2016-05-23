@@ -6,7 +6,7 @@ theme = "gscv"
 
 [params]
     sidebartitle = "Generations Montessori"
-    sidebartagline = "Charlottesville, VA"
+    sidebartagline = "Charlottesville, Virginia"
     nodate = true
     noauthor = true
     noread = true
