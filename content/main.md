@@ -87,5 +87,14 @@ of respect.
    three of us paved the way for Generations Montessori School.  </td>
    </tr> </table>
 
+## Documents
+
+[Parent Handbook 2016-2017](/docs/parenthandbook2016.pdf)  
+[Calendar 2016-2017](/docs/calendar2016-2017.pdf)  
+[Major Dates 2016-2017](/docs/majordates2016-2017.pdf)  
+
+[Infant Application](/docs/infantapplication.pdf)  
+
+
    </div>
 
