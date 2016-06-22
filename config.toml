@@ -18,4 +18,9 @@ theme = "gscv"
   url = "/"
   weight = -200
 
+[[menu.main]]
+  name = "Schedule"
+  url = "/schedule"
+  weight = -200
+
 [[menu.footer]]

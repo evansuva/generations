@@ -14,7 +14,6 @@ body {
 
 p {
   line-height:1.2;
-   margin:30px 0
 }
 
 p a {
@@ -23,7 +22,7 @@ p a {
 
 .biotable {
   line-height: 1.1;
-  font-size: 14px;
+  font-size: 16px;
   margin-left: 0px;
   margin-right: 0px;
   border-collapse: collapse;
@@ -32,6 +31,17 @@ p a {
 
 .biocell {
   align: top;
+}
+
+.main {
+  width: 80%;
+  align: center;
+}
+
+.footertext {
+  text-align: center;
+  line-height: 1.0;
+  color: #45A4CD;
 }
 
 .maintext {
@@ -44,6 +54,18 @@ p a {
   float: left;
   align: center;
   font-size: 12px;
+}
+
+.linkmenu {
+  border: 4px solid #BE267D;
+  background: #EFB45E;
+  width: 90%;
+  align: center;
+  color: #45A4CD;
+  font-weight: 800;
+  font-size: 14pt;
+  padding: 12pt;
+  margin-bottom: 8px;
 }
 
 .sidequote {
@@ -91,13 +113,28 @@ p a {
   text-align: right;
 }
 
-.content {
-  position:absolute;
-  top: 40px;
+.my-title{color:#555;font-size:14px;font-weight:900; margin-bottom:2px;}
+.my-subtitle{color:#222;font-size:10px;font-weight:400}
+
+.mytable {
+  color: #F00;
 }
 
-h1,h2,h3,h4,h5,h6{font-family:'Open Sans','Helvetica
-Neue',Helvetica,Arial,sans-serif;font-weight:800}
+.content {
+  position:absolute;
+  top: 1%;
+  width: 70%;
+}
+
+h1 {
+  text-align: center;
+  background-color: #45A4CD;
+  color: #EFB45E;
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 500;
+}
+
+h1,h2,h3,h4,h5,h6{font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:800}
 
 a{color:#404040}a:hover,a:focus{color:#0085a1}a
 img:hover,a
@@ -181,9 +218,4 @@ Neue',Helvetica,Arial,sans-serif;text-transform:uppercase;font-size:14px;font-we
 25px;background-color:#fff;border-radius:0}.pager li>a:hover,.pager
 li>a:focus{color:#fff;background-color:#0085a1;border:1px solid
 #0085a1}.pager .disabled>a,.pager .disabled>a:hover,.pager
-
-.my-title{color:#FFF;font-size:14px;font-weight:900}
-.my-subtitle{color:#FFF;font-size:10px;font-weight:400}
-
-
 
