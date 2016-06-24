@@ -49,6 +49,10 @@ p a {
   margin-left: 20%;
 }
 
+.bottompadding {
+  padding-bottom: 8px;
+}
+
 .sidelogo {
   width: 20%;
   float: left;
