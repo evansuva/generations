@@ -22,7 +22,7 @@ p a {
 
 .biotable {
   line-height: 1.1;
-  font-size: 14px;
+  font-size: 16px;
   margin-left: 0px;
   margin-right: 0px;
   border-collapse: collapse;
@@ -49,6 +49,7 @@ p a {
   margin-left: 20%;
 }
 
+.bottompad
 .sidelogo {
   width: 20%;
   float: left;
@@ -131,7 +132,7 @@ h1 {
   background-color: #45A4CD;
   color: #EFB45E;
   font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
-  fo
+  font-weight: 500;
 }
 
 h1,h2,h3,h4,h5,h6{font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:800}
