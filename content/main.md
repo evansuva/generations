@@ -2,7 +2,7 @@
 title = "Generations Montessori School Charlottesville"
 +++
 
-# <center>Generations Montessori</center>
+# <center>Generations Montessori School</center>
 
 <center>
 <b><font size="+1">Site Under Construction</font></b>
