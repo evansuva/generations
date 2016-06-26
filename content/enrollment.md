@@ -8,6 +8,7 @@ their kindergarten year.
     
 ### Downloads
 
-[Infant Application (PDF)](/docs/infantapplication.pdf)  
-[Parent Handbook 2016-2017](/docs/parenthandbook2016.pdf)  
+[Infant Application [PDF]](/docs/infantapplication.pdf)  
+[Parent Handbook 2016-2017 [PDF]](/docs/parenthandbook2016.pdf)  
 
+<img class="mainpic" src="/images/IMG_8733.jpg">

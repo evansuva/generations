@@ -1,21 +1,21 @@
 {{ partial "header.html" . }}
 
-<div id="layout">
-  <div class="content pure-u-1 pure-u-md-3-4">
   <a name="top"></a>
 
-  <section id="main">
+  <div class="content">
+
     {{ partial "sidebar.html" . }}
 
+  <div class="main">
     {{ range .Site.Pages }}
         {{ if eq .Title "Generations Montessori School Charlottesville" }}
            {{ .Content }}
-        {{ end }}
+           {{ partial "footer.html" . }}  
+      {{ end }}
     {{ end }} 
-  </section>
 
-  {{ partial "footer.html" . }}
-    </div>
+      </div>
+  </div>
   </div>
 </body>
 </html>

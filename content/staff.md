@@ -3,7 +3,7 @@
    <table class="biotable">
    <tr>
    <td class="biocell" width="48%" valign="top">
-   <Center><img src="/images/IMG_8940.jpg" width="98%" class="bottompadding"></center>
+   <Center><img src="/images/rita.png" width="100%" class="bottompadding"></center>
    <center><b><font size="+2">Rita Pace</font></b></center>
    I have worked in early childhood education for nearly 30 years. In that
    time, I have cared for over a hundred children in the Charlottesville
@@ -17,7 +17,7 @@
    emotional, social and physical needs.  </td> 
    <td width="4%"></td>
    <td class="biocell" width="48%" valign="top">
-   <Center><img src="/images/christina.jpg" width="98%" class="bottompadding" ></center>
+   <Center><img src="/images/christina.png" width="98%" class="bottompadding" ></center>
   <centeR><b><font size="+2">Christina Pace</font></b></center> After growing up in
    Charlottesville and attending the city school system, I earned my
    Bachelor of Science degree in Mathematics from Virginia Polytechnic

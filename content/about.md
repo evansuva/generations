@@ -10,6 +10,14 @@ Based on the teachings of Maria Montessori, Generations Montessori
 School aims to provide a quality education for children to help them
 grow into confident, curious, motivated, and creative lifelong learners.
 
+<div class="imagetext" style="left:70%;width:28%">
+<span class="picturequote" style="color: white">
+Education is a natural process carried out by the child
+and is not acquired by listening to words but by experiences in the
+environment. <div class="sidequotee">Maria Montessori</div>
+</div>
+<img class="mainpic" src="/images/IMG_8614.jpg">
+
 ### Center Philosophy
 
 Maria Montessori observed that a child’s learning begins at birth. At
@@ -25,5 +33,4 @@ independence through trust, positive social interactions, and
 intellectual growth. At Generations Montessori School, we believe that
 children are independent thinkers, capable of making choices and worthy
 of respect.  
-
 
