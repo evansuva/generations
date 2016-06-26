@@ -19,7 +19,7 @@ their kindergarten year.
    <a class="menulink" href="/about">About Us</a> &nbsp;&middot;&nbsp;
    <A class="menulink" href="/enrollment">Enrollment</a> &nbsp;&middot;&nbsp;
    <A class="menulink" href="/calendar">Calendar</a> &nbsp;&middot;&nbsp;
-   <a class="menulink" href="/staff">Staff</a>  
+   <a class="menulink" href="/staff">Staff</a>   
    <a class="menulink" href="/camps">Camps</a> &nbsp;&middot;&nbsp; 
    <a class="menulink" href="/enrichment">Enrichment Days</a> &nbsp;&middot;&nbsp;
    <a class="menulink" href="/contact">Contact Us</a>
