@@ -2,11 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Generations Montessori School Charlottesville</title>
-    <link>http://generationsmontessoricville.org/</link>
+    <link>http://generationsmontessoricville.org/index.xml</link>
     <description>Recent content on Generations Montessori School Charlottesville</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="http://generationsmontessoricville.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://generationsmontessoricville.org/calendar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://generationsmontessoricville.org/calendar/</guid>
+      <description>
+
+&lt;h1 id=&#34;calendar&#34;&gt;Calendar&lt;/h1&gt;
+
+&lt;h3 id=&#34;daily-schedule&#34;&gt;Daily Schedule&lt;/h3&gt;
+
+&lt;table class=&#34;schedule&#34;&gt;
+&lt;tr&gt;
+&lt;td width=&#34;35%&#34; align=&#34;center&#34;&gt;8:45 – 9:00AM&lt;/td&gt;&lt;td width=&#34;65%&#34;&gt;&lt;b&gt;Arrival&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td align=&#34;center&#34;&gt;10:30AM&lt;/td&gt;&lt;td&gt;&lt;b&gt;Morning Snack&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td align=&#34;center&#34;&gt;12:00 &amp;ndash; 12:15PM&lt;/td&gt;&lt;td&gt;&lt;b&gt;Half-Day Dismissal&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td align=&#34;center&#34;&gt;12:15PM&lt;/td&gt;&lt;td&gt;&lt;b&gt;Lunch for Full-Day Students&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td align=&#34;center&#34;&gt;2:00PM&lt;/td&gt;&lt;td&gt;&lt;b&gt;Afternoon Snack&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td align=&#34;center&#34;&gt;3:00 &amp;ndash; 3:15PM&lt;/td&gt;&lt;td&gt;&lt;b&gt;Full-Day Dismissal&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;!--Embed Google Calendar goes here--&gt;
+
+&lt;h3 id=&#34;downloads&#34;&gt;Downloads&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://generationsmontessoricville.org/docs/calendar2016-2017.pdf&#34;&gt;Calendar 2016-2017&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://generationsmontessoricville.org/docs/majordates2016-2017.pdf&#34;&gt;Major Dates 2016-2017&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/IMG_4016.jpg&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -16,7 +49,7 @@
       <guid>http://generationsmontessoricville.org/camps/</guid>
       <description>
 
-&lt;h1 id=&#34;generations-summer-camps:b608fc042028e15347dc7f4e64ca33eb&#34;&gt;Generations Summer Camps&lt;/h1&gt;
+&lt;h1 id=&#34;generations-summer-camps&#34;&gt;Generations Summer Camps&lt;/h1&gt;
 
 &lt;p&gt;Below, please find our list of summer camp offerings. Unless otherwise
 stated, all camps are open to children 3-12 years of age. A balanced
@@ -24,9 +57,9 @@ snack will be provided each day. Students enrolled in &lt;strong&gt;Cooking with
 Kids&lt;/strong&gt; will be making their lunch each day. For all other options, we
 ask that students bring a nut-free lunch each day.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/IMG_8879.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/IMG_3785.jpg&#34;&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;may-2016:b608fc042028e15347dc7f4e64ca33eb&#34;&gt;May 2016&lt;/h3&gt;
+&lt;h3 id=&#34;may-2016&#34;&gt;May 2016&lt;/h3&gt;
 
 &lt;table class=&#34;camp&#34;&gt;
 &lt;tr&gt;
@@ -43,7 +76,7 @@ music, cooking, art, etc. They will be invited to work independently and
 in small groups on different projects. Puzzles, games, and outside play
 (weather permitting) will also be offered.&lt;/p&gt;
 
-&lt;h3 id=&#34;june-2016:b608fc042028e15347dc7f4e64ca33eb&#34;&gt;June 2016&lt;/h3&gt;
+&lt;h3 id=&#34;june-2016&#34;&gt;June 2016&lt;/h3&gt;
 
 &lt;table class=&#34;camp&#34;&gt;
 &lt;tr&gt;
@@ -97,7 +130,7 @@ family.&lt;/p&gt;
 and your family.  Every day, each child will leave with a complete meal
 from salad to dessert.&lt;/p&gt;
 
-&lt;h3 id=&#34;july-2016:b608fc042028e15347dc7f4e64ca33eb&#34;&gt;July 2016&lt;/h3&gt;
+&lt;h3 id=&#34;july-2016&#34;&gt;July 2016&lt;/h3&gt;
 
 &lt;table class=&#34;camp&#34;&gt;
 &lt;tr&gt;
@@ -138,7 +171,7 @@ family.&lt;/p&gt;
 and your family.  Every day, each child will leave with a complete meal
 from salad to dessert.&lt;/p&gt;
 
-&lt;h3 id=&#34;august-2016:b608fc042028e15347dc7f4e64ca33eb&#34;&gt;August 2016&lt;/h3&gt;
+&lt;h3 id=&#34;august-2016&#34;&gt;August 2016&lt;/h3&gt;
 
 &lt;p&gt;August 8-12, 2016    Full STEAM Ahead                             9:00AM-1:00PM                   $165&lt;/p&gt;
 
@@ -170,44 +203,13 @@ for the week. Each meal will include a main course, side, and dessert.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://generationsmontessoricville.org/calendar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://generationsmontessoricville.org/calendar/</guid>
-      <description>
-
-&lt;h1 id=&#34;calendar:a631103cf606bbead447236a29c6889e&#34;&gt;Calendar&lt;/h1&gt;
-
-&lt;h3 id=&#34;daily-schedule:a631103cf606bbead447236a29c6889e&#34;&gt;Daily Schedule&lt;/h3&gt;
-
-&lt;table class=&#34;schedule&#34;&gt;
-&lt;tr&gt;
-&lt;td width=&#34;35%&#34; align=&#34;center&#34;&gt;8:45 – 9:00AM&lt;/td&gt;&lt;td width=&#34;65%&#34;&gt;&lt;b&gt;Arrival&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td align=&#34;center&#34;&gt;10:30AM&lt;/td&gt;&lt;td&gt;&lt;b&gt;Morning Snack&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td align=&#34;center&#34;&gt;12:00 &amp;ndash; 12:15PM&lt;/td&gt;&lt;td&gt;&lt;b&gt;Half-Day Dismissal&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td align=&#34;center&#34;&gt;12:15PM&lt;/td&gt;&lt;td&gt;&lt;b&gt;Lunch for Full-Day Students&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td align=&#34;center&#34;&gt;2:00PM&lt;/td&gt;&lt;td&gt;&lt;b&gt;Afternoon Snack&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td align=&#34;center&#34;&gt;3:00 &amp;ndash; 3:15PM&lt;/td&gt;&lt;td&gt;&lt;b&gt;Full-Day Dismissal&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Embed Google Calendar goes here&lt;/p&gt;
-
-&lt;h3 id=&#34;downloads:a631103cf606bbead447236a29c6889e&#34;&gt;Downloads&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://generationsmontessoricville.org/docs/calendar2016-2017.pdf&#34;&gt;Calendar 2016-2017&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://generationsmontessoricville.org/docs/majordates2016-2017.pdf&#34;&gt;Major Dates 2016-2017&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>http://generationsmontessoricville.org/enrollment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://generationsmontessoricville.org/enrollment/</guid>
       <description>
 
-&lt;h1 id=&#34;enrollment:ea2a2f8d9890b8d9c7f65fb994ad45a6&#34;&gt;Enrollment&lt;/h1&gt;
+&lt;h1 id=&#34;enrollment&#34;&gt;Enrollment&lt;/h1&gt;
 
 &lt;p&gt;During the 2016-2017 school year, Generations Montessori School will be
 offering an infant class for children ages 2-20 months old. The hope is
@@ -215,12 +217,68 @@ that as your children grow, the school will grow with them. Students
 will be able to enroll as early as 2 months old and continue on through
 their kindergarten year.&lt;/p&gt;
 
-&lt;h3 id=&#34;downloads:ea2a2f8d9890b8d9c7f65fb994ad45a6&#34;&gt;Downloads&lt;/h3&gt;
+&lt;h3 id=&#34;downloads&#34;&gt;Downloads&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://generationsmontessoricville.org/docs/infantapplication.pdf&#34;&gt;Infant Application [PDF]&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;http://generationsmontessoricville.org/docs/parenthandbook2016.pdf&#34;&gt;Parent Handbook 2016-2017 [PDF]&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/IMG_3946-carpet.jpg&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://generationsmontessoricville.org/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://generationsmontessoricville.org/gallery/</guid>
+      <description>
+
+&lt;h1 id=&#34;gallery&#34;&gt;Gallery&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;pictures-from-august-2016&#34;&gt;Pictures from August 2016&lt;/h3&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/IMG_8617-2.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/IMG_8879.jpg&#34;&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/IMG_8733.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/IMG_8614.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;pictures-from-february-2017&#34;&gt;Pictures from February 2017&lt;/h3&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/rita pace - IMG_4359.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/IMG_4343-circletime.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/rita pace - IMG_4357.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/IMG_4016.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/IMG_4024.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/rita pace - IMG_3973.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/IMG_3946-carpet.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/rita pace - IMG_3957.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/IMG_3785.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/rita pace - IMG_3871.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/IMG_3779-sandbox.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/rita pace - IMG_3709.jpg&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -232,7 +290,7 @@ their kindergarten year.&lt;/p&gt;
       <guid>http://generationsmontessoricville.org/staff/</guid>
       <description>
 
-&lt;h1 id=&#34;staff:7f8528699075bb4760b5004a95c7d387&#34;&gt;Staff&lt;/h1&gt;
+&lt;h1 id=&#34;staff&#34;&gt;Staff&lt;/h1&gt;
 
 &lt;p&gt;&lt;table class=&#34;biotable&#34;&gt;
    &lt;tr&gt;
@@ -274,23 +332,23 @@ their kindergarten year.&lt;/p&gt;
       <guid>http://generationsmontessoricville.org/about/</guid>
       <description>
 
-&lt;h1 id=&#34;about-us:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About Us&lt;/h1&gt;
+&lt;h1 id=&#34;about-us&#34;&gt;About Us&lt;/h1&gt;
 
-&lt;h3 id=&#34;mission-statement:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Mission Statement&lt;/h3&gt;
+&lt;h3 id=&#34;mission-statement&#34;&gt;Mission Statement&lt;/h3&gt;
 
 &lt;p&gt;Based on the teachings of Maria Montessori, Generations Montessori
 School aims to provide a quality education for children to help them
 grow into confident, curious, motivated, and creative lifelong learners.&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;imagetext&#34; style=&#34;left:70%;width:28%&#34;&gt;
-&lt;span class=&#34;picturequote&#34; style=&#34;color: white&#34;&gt;
+&lt;p&gt;&lt;div class=&#34;imagetext&#34; style=&#34;left:70%;width:28%;top:55%&#34;&gt;
+&lt;span class=&#34;picturequote&#34;&gt;
 Education is a natural process carried out by the child
 and is not acquired by listening to words but by experiences in the
 environment. &lt;div class=&#34;sidequotee&#34;&gt;Maria Montessori&lt;/div&gt;
 &lt;/div&gt;
-&lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/IMG_8614.jpg&#34;&gt;&lt;/p&gt;
+&lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/IMG_3779-sandbox.jpg&#34;&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;center-philosophy:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Center Philosophy&lt;/h3&gt;
+&lt;h3 id=&#34;center-philosophy&#34;&gt;Center Philosophy&lt;/h3&gt;
 
 &lt;p&gt;Maria Montessori observed that a child’s learning begins at birth. At
 Generations Montessori School, we believe this to be true. The infant
@@ -316,7 +374,7 @@ of respect.&lt;/p&gt;
       <guid>http://generationsmontessoricville.org/contact/</guid>
       <description>
 
-&lt;h1 id=&#34;contact-us:3c4864f00d23f7ea35511ec930ce1d9c&#34;&gt;Contact Us&lt;/h1&gt;
+&lt;h1 id=&#34;contact-us&#34;&gt;Contact Us&lt;/h1&gt;
 
 &lt;p&gt;Rita Pace: &lt;a href=&#34;mailto:rita_pace@comcast.net&#34;&gt;&lt;em&gt;rita_pace@comcast.net&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;
 Christina Pace: &lt;A href=&#34;mailt:cmpace05@gmail.com&#34;&gt;&lt;em&gt;cmpace05@gmail.com&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
@@ -333,13 +391,13 @@ Christina Pace: &lt;A href=&#34;mailt:cmpace05@gmail.com&#34;&gt;&lt;em&gt;cmpac
       <guid>http://generationsmontessoricville.org/enrichment/</guid>
       <description>
 
-&lt;h1 id=&#34;enrichment-days:baec2720138895a66af1fe81cf8fd91f&#34;&gt;Enrichment Days&lt;/h1&gt;
+&lt;h1 id=&#34;enrichment-days&#34;&gt;Enrichment Days&lt;/h1&gt;
 
 &lt;p&gt;During the school year, we offer Enrichment Days for children when
 schools are closed. Please stay turned for details on the 2016-2017
 schedule.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/IMG_8643.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/IMG_4024.jpg&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -351,12 +409,12 @@ schedule.&lt;/p&gt;
       <guid>http://generationsmontessoricville.org/main/</guid>
       <description>
 
-&lt;h1 id=&#34;center-generations-montessori-school-center:379caad01b6ea305187be199bcac1370&#34;&gt;&lt;center&gt;Generations Montessori School&lt;/center&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;center-generations-montessori-school-center&#34;&gt;&lt;center&gt;Generations Montessori School&lt;/center&gt;&lt;/h1&gt;
 
 &lt;p&gt;&lt;div class=&#34;imagetext&#34;&gt;
    &lt;span class=&#34;picturequote&#34;&gt;Children are not a distraction from more important work, they are the most important work. &lt;span class=&#34;sidequotee&#34;&gt;(John&amp;nbsp;Trainer,&amp;nbsp;M.D.)&lt;/span&gt;
    &lt;/div&gt;
-   &lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/IMG_8617-2.jpg&#34;&gt;&lt;/p&gt;
+   &lt;img class=&#34;mainpic&#34; src=&#34;http://generationsmontessoricville.org/images/IMG_4343-circletime.jpg&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;During the 2016-2017 school year, Generations Montessori School will be
 offering an infant class for children ages 2-20 months old. The hope is
@@ -384,7 +442,7 @@ their kindergarten year.&lt;/p&gt;
       <guid>http://generationsmontessoricville.org/schedule/</guid>
       <description>
 
-&lt;h1 id=&#34;daily-schedule:6b0be342d4ab5efd25856c2371c7688a&#34;&gt;Daily Schedule&lt;/h1&gt;
+&lt;h1 id=&#34;daily-schedule&#34;&gt;Daily Schedule&lt;/h1&gt;
 
 &lt;table class=&#34;mytable&#34;&gt;
 &lt;tr&gt;&lt;td style=&#34;padding: 12px;&#34;&gt;8:45 – 9:00am&lt;/td&gt;&lt;td&gt;Arrival&lt;/td&gt;&lt;/tr&gt;

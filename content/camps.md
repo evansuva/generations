@@ -6,7 +6,7 @@ snack will be provided each day. Students enrolled in **Cooking with
 Kids** will be making their lunch each day. For all other options, we
 ask that students bring a nut-free lunch each day.
 
-<img class="mainpic" src="/images/IMG_8879.jpg">
+<img class="mainpic" src="/images/IMG_3785.jpg">
 
 ### May 2016
 

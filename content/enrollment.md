@@ -11,4 +11,4 @@ their kindergarten year.
 [Infant Application [PDF]](/docs/infantapplication.pdf)  
 [Parent Handbook 2016-2017 [PDF]](/docs/parenthandbook2016.pdf)  
 
-<img class="mainpic" src="/images/IMG_8733.jpg">
+<img class="mainpic" src="/images/IMG_3946-carpet.jpg">

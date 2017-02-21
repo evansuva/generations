@@ -7,7 +7,7 @@ title = "Generations Montessori School Charlottesville"
    <div class="imagetext"> 
    <span class="picturequote">Children are not a distraction from more important work, they are the most important work. <span class="sidequotee">(John&nbsp;Trainer,&nbsp;M.D.)</span>
    </div>
-   <img class="mainpic" src="/images/IMG_8617-2.jpg">
+   <img class="mainpic" src="/images/IMG_4343-circletime.jpg">
 
 During the 2016-2017 school year, Generations Montessori School will be
 offering an infant class for children ages 2-20 months old. The hope is

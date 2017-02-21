@@ -12,10 +12,11 @@
 <tr><td align="center">3:00 &ndash; 3:15PM</td><td><b>Full-Day Dismissal</b></td></tr>
 </table>
 
-Embed Google Calendar goes here
+<!--Embed Google Calendar goes here-->
     
 ### Downloads
 
 [Calendar 2016-2017](/docs/calendar2016-2017.pdf)  
 [Major Dates 2016-2017](/docs/majordates2016-2017.pdf)  
 
+<img class="mainpic" src="/images/IMG_4016.jpg">
