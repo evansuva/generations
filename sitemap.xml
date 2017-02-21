@@ -3,11 +3,6 @@
   
   <url>
     <loc>http://generationsmontessoricville.org/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://generationsmontessoricville.org/camps/</loc>
   </url>
   
   <url>
@@ -15,7 +10,15 @@
   </url>
   
   <url>
+    <loc>http://generationsmontessoricville.org/camps/</loc>
+  </url>
+  
+  <url>
     <loc>http://generationsmontessoricville.org/enrollment/</loc>
+  </url>
+  
+  <url>
+    <loc>http://generationsmontessoricville.org/gallery/</loc>
   </url>
   
   <url>
