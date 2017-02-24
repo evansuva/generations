@@ -1,91 +1,43 @@
 # Generations Summer Camps
 
-Below, please find our list of summer camp offerings. Unless otherwise
-stated, all camps are open to children 3-12 years of age. A balanced
-snack will be provided each day. Students enrolled in **Cooking with
-Kids** will be making their lunch each day. For all other options, we
-ask that students bring a nut-free lunch each day.
+**Updated for 2017**
+
+Below, please find our list of summer camp offerings. Toddler
+Enrichment Camps are open to children 18 months &ndash; 3 years of age. All
+other camps are open to children 3 &ndash; 12 years of age. 
+
+For all offerings, a balanced snack will be provided each
+day. Students enrolled in _Cooking with Kids_ will be making their
+lunch each day. For all other options, we ask that students bring a
+nut-free lunch each day. (Note: Students participating in the Toddler
+Enrichment Camps will not have lunch at camp.)
+
+<center>
+Space is limited. Please email Rita Pace at <A href="mailto:rita_pace@comcast.net"><em>rita_pace@comcast.net</em></a> to reserve your spot today!
+</center>
 
 <img class="mainpic" src="/images/IMG_3785.jpg">
 
-### May 2016
+### June 2017
 
 <table class="camp">
 <tr>
-<td width=25%><b>May 12, 2016</b></td>
-<td width=75% colspan=2><b>Spring Enrichment Day</b></td></tr>
-<tr>
-<td>&nbsp;</td><td width=40%>9:00AM-1:00PM</td><td width=25%>$45</td></tr>
-<tr>
-<td>&nbsp;</td><td>9:00AM-5:00PM</td><td>$85</td></tr>
+<td width=25%><b>June 19 &ndash; 23, 2017</b></td>
+<td width=75% colspan=2><b>Toddler Fun with Art &amp; Music</b></td></tr>
+<tr><td>&nbsp;</td><td width=40%>9:00AM-Noon</td><td width=25%>$165</td></tr>
+<tr><td>&nbsp;</td><td width=40%>Instructor: Rita Pace</td></tr>
 </table>
 
-Students will have the opportunity to explore options in math, science,
-music, cooking, art, etc. They will be invited to work independently and
-in small groups on different projects. Puzzles, games, and outside play
-(weather permitting) will also be offered.
-
-### June 2016
+Throughout the week, students will have an opportunity to explore
+music and art. Children will sing, dance, and experiment with
+different art mediums and musical instruments.
 
 <table class="camp">
 <tr>
-<td width=25%><b>June 3, 2016</b></td>
-<td width=75% colspan=2><b>Spring Enrichment Day</b></td></tr>
-<tr>
-<td>&nbsp;</td><td width=40%>9:00AM-1:00PM</td><td width=25%>$45</td></tr>
-<tr>
-<td>&nbsp;</td><td>9:00AM-5:00PM</td><td>$85</td></tr>
-</table>
-
-Students will have the opportunity to explore options in math, science,
-music, cooking, art, etc. They will be invited to work independently and
-in small groups on different projects. Puzzles, games, and outside play
-(weather permitting) will also be offered.
-
-<table class="camp">
-<tr>
-<td width=25%><b>June 6-10, 2016</b></td>
-<td width=75% colspan=2><b>Introduction to Cooking</b></td></tr>
-<tr>
-<td>&nbsp;</td><td width=40%>9:00AM-1:00PM</td><td width=25%>$200</td></tr>
-</table>
- 
-Children will work together to plan and create balanced snacks and meals
-for the week. Each meal will include a main course, side, and dessert.
-               
-<table class="camp">
-<tr>
-<td width=25%><b>June 13-17, 2016</b></td>
-<td width=75% colspan=2><b>Cooking with Kids</b></td></tr>
-<tr>
-<td>&nbsp;</td><td width=40%>9:00AM-1:00PM</td><td width=25%>$200</td></tr>
-</table>
-
-Children ages 5 and up will work together to plan and create balanced
-snacks and meals for the week. Each meal will include a main course,
-side, and dessert. The week will end with a picnic for the entire
-family.
-
-<table class="camp">
-<tr>
-<td width=25%><b>June 20-24, 2016</b></td>
-<td width=75% colspan=2><b>Supper Camp</b></td></tr>
-<tr>
-<td>&nbsp;</td><td width=40%>9:00AM-3:00PM</td><td width=25%>$315</td></tr>
-</table>
-
-The children will work to create a balanced, nutritional meal for you
-and your family.  Every day, each child will leave with a complete meal
-from salad to dessert.
-
-### July 2016
-
-<table class="camp">
-<tr>
-<td width=25%><b>July 11-15, 2016</b></td>
-<td width=75% colspan=2><b>Fun with Arts &amp; Music</b></td></tr>
-<tr>
-<td>&nbsp;</td><td width=40%>9:00AM-1:00PM</td><td width=25%>$165</td></tr>
+<td width=25%><b>June 19 &ndash; 23, 2017</b></td>
+<td width=75% colspan=2><b>Fun with Art &amp; Music</b></td></tr>
+<tr><td>&nbsp;</td><td width=40%>9:00AM-1:00PM</td><td width=25%>$165</td></tr>
+<tr><td>&nbsp;</td><td width=40%>Instructor: Christine Pace</td></tr>
 </table>
 
 Students will explore a variety of arts including, but not limited to,
@@ -93,62 +45,87 @@ hand arts, visual arts, and the preforming arts. Students will
 participate in music each day and have the opportunity to try several
 different instruments.
 
+### July 2017
 
 <table class="camp">
 <tr>
-<td width=25%><b>July 18-22, 2016</b></td>
-<td width=75% colspan=2><b>Cooking with Kids</b></td></tr>
-<tr>
-<td>&nbsp;</td><td width=40%>9:00AM-1:00PM</td><td width=25%>$200</td></tr>
-</table>
- 
-Children ages 5 and up will work together to plan and create balanced
-snacks and meals for the week. Each meal will include a main course,
-side, and dessert. The week will end with a picnic for the entire
-family.
-
-
-<table class="camp">
-<tr>
-<td width=25%><b>June 25-29, 2016</b></td>
+<td width=25%><b>July 10 &ndash; 14, 2017</b></td>
 <td width=75% colspan=2><b>Supper Camp</b></td></tr>
-<tr>
-<td>&nbsp;</td><td width=40%>9:00AM-3:00PM</td><td width=25%>$315</td></tr>
+<tr><td>&nbsp;</td><td width=40%>9:00AM-3:00PM</td><td width=25%>$315</td></tr>
+<tr><td>&nbsp;</td><td width=40%>Instructors: Rita and Christine Pace</td></tr>
 </table>
 
 The children will work to create a balanced, nutritional meal for you
-and your family.  Every day, each child will leave with a complete meal
-from salad to dessert.
+and your family. Every day, each child will leave with a complete
+meal from main dish to dessert.
 
-### August 2016
-
-August 8-12, 2016    Full STEAM Ahead                             9:00AM-1:00PM                   $165
 
 <table class="camp">
 <tr>
-<td width=25%><b>August 8-12, 2016</b></td>
-<td width=75% colspan=2><b>Full STEAM Ahead</b></td></tr>
+<td width=25%><b>July 17 &ndash; 21, 2017</b></td>
+<td width=75% colspan=2><b>Toddler Cooking Basics</b></td></tr>
+<tr><td>&nbsp;</td><td width=40%>9:00AM-Noon</td><td width=25%>$200</td></tr>
+<tr><td>&nbsp;</td><td width=40%>Instructor: Rita Pace</td></tr>
+</table>
+
+Children will work together to create simple recipes with a focus
+around good table manners, proper place settings, and healthy eating
+habits.
+
+
+<table class="camp">
 <tr>
-<td>&nbsp;</td><td width=40%>9:00AM-1:00PM</td><td width=25%>$165</td></tr>
+<td width=25%><b>July 17 &ndash; 21, 2017</b></td>
+<td width=75% colspan=2><b>Cooking with Kids</b></td></tr>
+<tr><td>&nbsp;</td><td width=40%>9:00AM-1:00PM</td><td width=25%>$200</td></tr>
+<tr><td>&nbsp;</td><td width=40%>Instructor: Christina Pace</td></tr>
+</table>
+
+Children will work together to plan and create balanced snacks and
+meals for the week. Each meal will include a main course, side, and
+dessert. The week will end with a picnic for the entire family.
+
+### August 2017
+
+
+<table class="camp">
+<tr>
+<td width=25%><b>August 7 &ndash; 11, 2017</b></td>
+<td width=75% colspan=2><b>Toddler Science Exploration</b></td></tr>
+<tr><td>&nbsp;</td><td width=40%>9:00AM-Noon</td><td width=25%>$165</td></tr>
+<tr><td>&nbsp;</td><td width=40%>Instructor: Rita Pace</td></tr>
+</table>
+
+Students will have the opportunity to explore science through simple
+experimentation involving water, color, and basic household supplies.
+
+
+<table class="camp">
+<tr>
+<td width=25%><b>August 7 &ndash; 11, 2017</b></td>
+<td width=75% colspan=2><b>Full STEAM Ahead</b></td></tr>
+<tr><td>&nbsp;</td><td width=40%>9:00AM-1:00PM</td><td width=25%>$165</td></tr>
+<tr><td>&nbsp;</td><td width=40%>Instructor: Christina Pace</td></tr>
 </table>
 
 Students will work with instructors to begin to develop hypotheses,
-conduct experiments, and make conclusions based on simple data. Students
-will be encouraged to work together and think creatively when presented
-with design problems.
+conduct experiments, and make conclusions based on simple
+data. Students will be encouraged to work together and think
+creatively when presented with design problems.
 
 <table class="camp">
 <tr>
-<td width=25%><b>August 15-19, 2016</b></td>
-<td width=75% colspan=2><b>Introduction to Cooking</b></td></tr>
-<tr>
-<td>&nbsp;</td><td width=40%>9:00AM-1:00PM</td><td width=25%>$200</td></tr>
+<td width=25%><b>August 14 &ndash; 18, 2017</b></td>
+<td width=75% colspan=2><b>Cooking with Kids</b></td></tr>
+<tr><td>&nbsp;</td><td width=40%>9:00AM-1:00PM</td><td width=25%>$200</td></tr>
+<tr><td>&nbsp;</td><td width=40%>Instructors: Rita and Christina Pace</td></tr>
 </table>
 
-Children will work together to plan and create balanced snacks and meals
-for the week. Each meal will include a main course, side, and dessert.
 
- 
+
+
+
+
 
  
 
