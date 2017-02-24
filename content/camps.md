@@ -1,6 +1,8 @@
 # Generations Summer Camps
 
+   <center>
 **Updated for 2017**
+   </center>
 
 Below, please find our list of summer camp offerings. Toddler
 Enrichment Camps are open to children 18 months &ndash; 3 years of age. All
@@ -121,7 +123,11 @@ creatively when presented with design problems.
 <tr><td>&nbsp;</td><td width=40%>Instructors: Rita and Christina Pace</td></tr>
 </table>
 
+Children will work together to plan and create balanced snacks and
+meals for the week. Each meal will include a main course, side, and
+dessert. The week will end with a picnic for the entire family.
 
+<img class="mainpic" src="/images/rita pace - IMG_3957.jpg">
 
 
 
