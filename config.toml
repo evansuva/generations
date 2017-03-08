@@ -2,7 +2,7 @@ baseurl = "http://generationsmontessoricville.org"
 languageCode = "en-us"
 title = "Generations Montessori School Charlottesville"
 subtitle = ""
-theme = "gscv"
+theme = "gms"
 
 [params]
     sidebartitle = "Generations Montessori"
