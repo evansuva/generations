@@ -39,7 +39,7 @@ different art mediums and musical instruments.
 <td width=25%><b>June 19 &ndash; 23, 2017</b></td>
 <td width=75% colspan=2><b>Fun with Art &amp; Music</b></td></tr>
 <tr><td>&nbsp;</td><td width=40%>9:00AM-1:00PM</td><td width=25%>$165</td></tr>
-<tr><td>&nbsp;</td><td width=40%>Instructor: Christine Pace</td></tr>
+<tr><td>&nbsp;</td><td width=40%>Instructor: Christina Pace</td></tr>
 </table>
 
 Students will explore a variety of arts including, but not limited to,
@@ -54,7 +54,7 @@ different instruments.
 <td width=25%><b>July 10 &ndash; 14, 2017</b></td>
 <td width=75% colspan=2><b>Supper Camp</b></td></tr>
 <tr><td>&nbsp;</td><td width=40%>9:00AM-3:00PM</td><td width=25%>$315</td></tr>
-<tr><td>&nbsp;</td><td width=40%>Instructors: Rita and Christine Pace</td></tr>
+<tr><td>&nbsp;</td><td width=40%>Instructors: Rita and Christina Pace</td></tr>
 </table>
 
 The children will work to create a balanced, nutritional meal for you
