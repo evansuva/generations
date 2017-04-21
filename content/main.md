@@ -9,11 +9,12 @@ title = "Generations Montessori School Charlottesville"
    </div>
    <img class="mainpic" src="/images/IMG_4343-circletime.jpg">
 
-During the 2016-2017 school year, Generations Montessori School will be
-offering an infant class for children ages 2-20 months old. The hope is
-that as your children grow, the school will grow with them. Students
-will be able to enroll as early as 2 months old and continue on through
-their kindergarten year.
+After a successful first year infant class, we are pleased to offer 2
+classes for upcoming school year: an infant class for
+children ages 2 &ndash; 20 months old and a toddler class for children
+21 months &ndash; 3 years of age. Our goal is to provide an
+environment that children can join as early as 2 months old and stay
+through their kindergarten year.
 
 <center><b>
    <a class="menulink" href="/about">About Us</a> &nbsp;&middot;&nbsp;
