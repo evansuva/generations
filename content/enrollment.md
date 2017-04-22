@@ -6,11 +6,6 @@ old and a toddler class for children 21 months – 3 years of age. Our
 goal is to provide an environment that children can join as early as 2
 months old and stay through their kindergarten year.
 
-Add Attachments:
-2017-2018 Infant/Toddler Application
-2017-2018 Parent Handbook
-
-    
 ### Downloads
 
 [2017&ndash;2018 Infant/Toddler Application [PDF]](/docs/application2017.pdf)  
