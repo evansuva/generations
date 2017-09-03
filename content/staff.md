@@ -30,7 +30,10 @@
    mother in September of 2015, and found the perfect reason to finally
    fulfill my mom and my dream to begin our own school. Together, the
    three of us paved the way for Generations Montessori School.  </td>
-   </tr> 
+   </tr>
+<tr>
+<td>&nbsp;</td><td></td><td></td>
+</tr> 
 <tr>
    <td class="biocell" width="48%" valign="top">
    <Center><img src="/images/maggie.gif" width="98%" class="bottompadding"></center>
@@ -51,6 +54,9 @@ are growing and to have the opportunity to be a part of that growth is
 a special thing.
 
 </td></tr>
+<tr>
+<td>&nbsp;</td><td></td><td></td>
+</tr> 
 
 <tr>
    <td class="biocell" width="48%" valign="top">
