@@ -52,7 +52,7 @@ a special thing.
 
 <tr>
    <td class="biocell" width="48%" valign="top">
-   <Center><img src="/images/sara.png" width="100%" class="bottompadding"></center>
+   <Center><img src="/images/sara.gif" width="100%" class="bottompadding"></center>
    <center><b><font size="+2">Sara Strong</font></b></center>
 I grew up in Charlottesville and graduated from Monticello HS. I
 received my BA in Art and American History from Ferrum College and
@@ -68,7 +68,7 @@ son, Ben, will be joining our Toddler class this fall.
 </td>
    <td width="4%"></td>
    <td class="biocell" width="48%" valign="top">
-   <Center><img src="/images/shanley.png" width="100%" class="bottompadding"></center>
+   <Center><img src="/images/erin.gif" width="100%" class="bottompadding"></center>
    <center><b><font size="+2">Erin James</font></b></center>
 I have worked with children of all ages for over a decade.  While studying English and education at the University of Virginia, I spent summers working as a camp counselor, both leading outdoor trips with middle school students and teaching yoga to children from ages three to twelve.  I worked at The Village School and Tandem Friends School while completing my teaching licensure at Mary Baldwin College, and for the last six years I have taught English in both Greene County and Albemarle County Public Schools.  I also have a Calming Kids yoga certification and love doing yoga with children.  Since becoming a mother in the spring of 2017, my focus has shifted to infant and early childhood development, and I am currently working towards completing my Montessori teacher training through the North American Montessori Center.  I am so excited and thankful to be a part of the Generations Montessori School community.   
 </td></tr>
