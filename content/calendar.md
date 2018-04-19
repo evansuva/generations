@@ -16,6 +16,8 @@
     
 ### Downloads
 
+[Major Dates 2018-2019](/docs/majordates2018-2019.pdf)  
+
 [Calendar 2017-2018](/docs/calendar2017.pdf)  
 
 [Calendar 2016-2017](/docs/calendar2016-2017.pdf)  
