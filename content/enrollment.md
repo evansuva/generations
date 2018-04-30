@@ -5,8 +5,10 @@ Generations Montessori School is pleased to offer 3 classes for the 2018 &ndash;
 
 ### Downloads
 
-[2018&ndash;2019 Application](/docs/application2018.pdf)
+[2018&ndash;2019 Application](/docs/application2018.pdf)  
 [Major Dates 2018&ndash;2019](/docs/majordates2018-2019.pdf)
+
+##
 
 #### Old Downloads
 
