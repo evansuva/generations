@@ -8,16 +8,13 @@ Generations Montessori School is pleased to offer 3 classes for the 2018 &ndash;
 [2018&ndash;2019 Application](/docs/application2018.pdf)  
 [Major Dates 2018&ndash;2019](/docs/majordates2018-2019.pdf)
 
-##
-
-#### Old Downloads
-
-[2017&ndash;2018 Parent Handbook [PDF]](/docs/handbook2017.pdf)  
-[Calendar 2017-2018](/docs/calendar2017.pdf)  
 
 <img class="mainpic" src="/images/IMG_3946-carpet.jpg">
 
 ### Previous Versions
+
+[2017&ndash;2018 Parent Handbook [PDF]](/docs/handbook2017.pdf)  
+[Calendar 2017-2018](/docs/calendar2017.pdf)  
 
 [2016&ndash;2017 Infant Application [PDF]](/docs/infantapplication.pdf)  
 [2016&ndash;2017 Parent Handbook 2016&ndash;2017 [PDF]](/docs/parenthandbook2016.pdf)  
